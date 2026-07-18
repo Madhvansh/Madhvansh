@@ -11,6 +11,7 @@ test, and improve.
 
 ## Flagship projects
 
+- [cooling-tower-chem](https://github.com/Madhvansh/cooling-tower-chem) — a small, dependency-free Python library for industrial water-treatment chemistry: the Langelier, Ryznar, Puckorius, and Larson-Skold stability/corrosion indices plus cooling-tower water balance (evaporation, blowdown, makeup, cycles of concentration). Fully type-hinted, ~60 tests validated against published reference values, CI on Python 3.9–3.13, with a `ctchem` CLI. MIT licensed.
 - [Neural E-Commerce Search](https://github.com/Madhvansh/Neural-E-Commerce-Search) — a no-login, client-side MiniLM product-retrieval lab plus a tested Python FAISS + DeBERTa reference for Amazon ESCI. The demo exposes model identity, scores, and evidence boundaries, and a fork can replace one JSON catalogue. MIT licensed.
 - [TGF](https://github.com/Madhvansh/TGF) — an Apache-2.0 research and simulation toolkit for cooling-tower forecasting, water-chemistry risk estimation, and model-predictive dosing control. Hardware integration and real-world validation remain active work.
 
@@ -33,6 +34,7 @@ test, and improve.
 - Collecting independent browser tests and catalogue remixes for Neural E-Commerce Search while preparing complete benchmark artifacts.
 - Documenting TGF's data provenance, simulation assumptions, and hardware roadmap.
 - Making the Retail Forecasting and Recommender experiments independently reproducible.
+- Maintaining cooling-tower-chem and contributing upstream to the libraries my projects depend on.
 - Turning roadmap items into well-scoped contributor issues.
 
 If you reproduce a result, find a failure case, or want to contribute, please open
