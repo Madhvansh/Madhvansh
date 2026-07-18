@@ -11,16 +11,16 @@ test, and improve.
 
 ## Flagship projects
 
+- [Neural E-Commerce Search](https://github.com/Madhvansh/Neural-E-Commerce-Search) — a no-login MiniLM product-retrieval lab, reusable TREC-style evaluation preflight for CI, and tested Python FAISS + DeBERTa reference for Amazon ESCI. The project exposes model identity, scores, and evidence boundaries. MIT licensed.
 - [cooling-tower-chem](https://github.com/Madhvansh/cooling-tower-chem) — a small, dependency-free Python library for industrial water-treatment chemistry: the Langelier, Ryznar, Puckorius, and Larson-Skold stability/corrosion indices plus cooling-tower water balance (evaporation, blowdown, makeup, cycles of concentration). Fully type-hinted, ~60 tests covering formula correctness, input validation, and monotonicity, CI on Python 3.9–3.13, with a `ctchem` CLI. MIT licensed.
-- [Neural E-Commerce Search](https://github.com/Madhvansh/Neural-E-Commerce-Search) — a no-login, client-side MiniLM product-retrieval lab plus a tested Python FAISS + DeBERTa reference for Amazon ESCI. The demo exposes model identity, scores, and evidence boundaries, and a fork can replace one JSON catalogue. MIT licensed.
 - [TGF](https://github.com/Madhvansh/TGF) — an Apache-2.0 research and simulation toolkit for cooling-tower forecasting, water-chemistry risk estimation, and model-predictive dosing control. Hardware integration and real-world validation remain active work.
 
 ## Supporting research and engineering
 
 - [Retail Sales Forecasting Engine](https://github.com/Madhvansh/Retail-Sales-Forecasting-Engine) — a reproducible forecasting benchmark and pipeline built around the M5 dataset. MIT licensed.
 - [The Recommender](https://github.com/Madhvansh/The-Recommender) — an experimental, from-scratch comparison of structured state-space sequence models and SASRec-style recommendation. MIT licensed.
-- [Social Media Event Organizer](https://github.com/Madhvansh/Social-Media-Event-Organizer) — a three-person Java Swing project for events, friendships, invitations, RSVPs, notifications, persistence, and reporting. The repository includes 71 passing JUnit tests, architecture documentation, and explicit team attribution.
-- [SAiDL Spring Assignment 2025](https://github.com/Madhvansh/SAiDL-Spring-Assignment-2025) — personal work completed for the 2025 SAiDL Spring Assignment at BITS Goa, covering state-space models and CoreML. This is coursework, not a claim of SAiDL membership, selection, endorsement, or independently reviewed research.
+- [Social Media Event Organizer](https://github.com/Madhvansh/Social-Media-Event-Organizer) — a collaborative Java Swing project for events, friendships, invitations, RSVPs, notifications, persistence, and reporting. The repository includes 71 passing JUnit tests, architecture documentation, explicit team attribution, and a downloadable desktop release path.
+- [SAiDL Spring Assignment 2025](https://github.com/Madhvansh/SAiDL-Spring-Assignment-2025) — assignment work developed while working with the SAiDL group at BITS Goa, covering state-space models and CoreML. This is coursework, not a claim of selection, endorsement, or independently reviewed research.
 
 ## What I care about
 
@@ -31,7 +31,7 @@ test, and improve.
 
 ## Current priorities
 
-- Collecting independent browser tests and catalogue remixes for Neural E-Commerce Search while preparing complete benchmark artifacts.
+- Collecting independent validator integrations, browser tests, and catalogue remixes for Neural E-Commerce Search while preparing complete benchmark artifacts.
 - Documenting TGF's data provenance, simulation assumptions, and hardware roadmap.
 - Making the Retail Forecasting and Recommender experiments independently reproducible.
 - Maintaining cooling-tower-chem and contributing upstream to the libraries my projects depend on.
