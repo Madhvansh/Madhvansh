@@ -18,6 +18,7 @@ test, and improve.
 
 - [Retail Sales Forecasting Engine](https://github.com/Madhvansh/Retail-Sales-Forecasting-Engine) — a reproducible forecasting benchmark and pipeline built around the M5 dataset. MIT licensed.
 - [The Recommender](https://github.com/Madhvansh/The-Recommender) — an experimental, from-scratch comparison of structured state-space sequence models and SASRec-style recommendation. MIT licensed.
+- [Social Media Event Organizer](https://github.com/Madhvansh/Social-Media-Event-Organizer) — a three-person Java Swing project for events, friendships, invitations, RSVPs, notifications, persistence, and reporting. The repository includes 71 passing JUnit tests, architecture documentation, and explicit team attribution.
 - [SAiDL Spring Assignment 2025](https://github.com/Madhvansh/SAiDL-Spring-Assignment-2025) — personal work completed for the 2025 SAiDL Spring Assignment at BITS Goa, covering state-space models and CoreML. This is coursework, not a claim of SAiDL membership, selection, endorsement, or independently reviewed research.
 
 ## What I care about
