@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile-banner.svg" width="100%" alt="Madhvansh Choksi — reproducible ML systems for search, forecasting, recommendation, and industrial decision support">
+</p>
+
 # Hi, I'm Madhvansh Choksi
 
 I build open-source machine-learning systems for search, recommendation,
