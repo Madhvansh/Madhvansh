@@ -17,7 +17,7 @@ test, and improve.
 
 - [Neural E-Commerce Search](https://github.com/Madhvansh/Neural-E-Commerce-Search) — a no-login MiniLM product-retrieval lab, reusable TREC-style evaluation preflight for CI, and tested Python FAISS + DeBERTa reference for Amazon ESCI. The project exposes model identity, scores, and evidence boundaries. MIT licensed.
 - [cooling-tower-chem](https://github.com/Madhvansh/cooling-tower-chem) — a small, dependency-free Python library for industrial water-treatment chemistry: the Langelier, Ryznar, Puckorius, and Larson-Skold stability/corrosion indices plus cooling-tower water balance (evaporation, blowdown, makeup, cycles of concentration). Fully type-hinted, ~60 tests covering formula correctness, input validation, and monotonicity, CI on Python 3.9–3.13, with a `ctchem` CLI. MIT licensed.
-- [TGF](https://github.com/Madhvansh/TGF) — an Apache-2.0 research and simulation toolkit for cooling-tower forecasting, water-chemistry risk estimation, and model-predictive dosing control. Hardware integration and real-world validation remain active work.
+- [TGF](https://github.com/Madhvansh/TGF) — an Apache-2.0 toolkit for cooling-tower forecasting, water-chemistry risk estimation, and model-predictive dosing control. In operational use since 2025 as an advisory system at eight cooling towers across two Indian plants (DCM Shriram Alkali and Atul Ltd, named with permission); autonomous closed-loop dosing remains on the roadmap.
 
 ## Supporting research and engineering
 
