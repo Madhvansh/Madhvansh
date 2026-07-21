@@ -10,14 +10,16 @@ forecasting, and industrial optimization.
 My goal is simple: publish projects that a stranger can understand, reproduce,
 test, and improve.
 
+My flagship, **[TGF](https://github.com/Madhvansh/TGF)**, is an advisory, physics-informed toolkit for industrial cooling-tower water treatment — in advisory production use since 2025 and self-hosted on-site at DCM Shriram Alkali (four towers) since June 2026, with deployment-confirmation letters in the repo.
+
 **[Try Neural E-Commerce Search in the browser](https://madhvansh.github.io/Neural-E-Commerce-Search/lab.html)**
 · [Remix it with your own catalogue](https://github.com/Madhvansh/Neural-E-Commerce-Search/blob/main/docs/FORK_THE_LAB.md)
 
 ## Flagship projects
 
+- [TGF](https://github.com/Madhvansh/TGF) — an Apache-2.0 toolkit for cooling-tower forecasting, water-chemistry risk estimation, and model-predictive dosing control. In operational use since 2025 as an advisory system at eight cooling towers across two Indian plants (DCM Shriram Alkali and Atul Ltd, named with permission; maintainer-attested), now self-hosted on-site at DCM Shriram Alkali (four towers) since June 2026 — deployment-confirmation letters in the TGF repo; autonomous closed-loop dosing remains on the roadmap.
 - [Neural E-Commerce Search](https://github.com/Madhvansh/Neural-E-Commerce-Search) — a no-login MiniLM product-retrieval lab, reusable TREC-style evaluation preflight for CI, and tested Python FAISS + DeBERTa reference for Amazon ESCI. The project exposes model identity, scores, and evidence boundaries. MIT licensed.
 - [cooling-tower-chem](https://github.com/Madhvansh/cooling-tower-chem) — a small, dependency-free Python library for industrial water-treatment chemistry: the Langelier, Ryznar, Puckorius, Larson-Skold, and Stiff-Davis indices plus CCPP (calcium carbonate precipitation potential), plus cooling-tower water balance (evaporation, blowdown, makeup, cycles of concentration). Fully type-hinted, 111 tests covering formula correctness, reference values, input validation, and monotonicity, CI on Python 3.9–3.13, with a `ctchem` CLI. MIT licensed.
-- [TGF](https://github.com/Madhvansh/TGF) — an Apache-2.0 toolkit for cooling-tower forecasting, water-chemistry risk estimation, and model-predictive dosing control. In operational use since 2025 as an advisory system at eight cooling towers across two Indian plants (DCM Shriram Alkali and Atul Ltd, named with permission; maintainer-attested), now self-hosted on-site at DCM Shriram Alkali (four towers) since June 2026 — deployment-confirmation letters in the TGF repo; autonomous closed-loop dosing remains on the roadmap.
 
 ## Supporting research and engineering
 

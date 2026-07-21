@@ -26,7 +26,7 @@
     <text x="68" y="128" fill="#aebddd" font-size="21">Reproducible ML systems for search, forecasting,</text>
     <text x="68" y="157" fill="#aebddd" font-size="21">recommendation, and industrial decision support.</text>
 
-    <rect x="68" y="192" width="390" height="42" rx="21" fill="#122743" stroke="#4fd1c5" stroke-opacity="0.45"/>
+    <rect x="68" y="192" width="460" height="42" rx="21" fill="#122743" stroke="#4fd1c5" stroke-opacity="0.45"/>
     <circle cx="92" cy="213" r="5" fill="#4fd1c5"/>
     <text x="108" y="220" fill="#d8e5ff" font-size="16" font-weight="600">Public evidence · Runnable software · Clear limits</text>
   </g>
