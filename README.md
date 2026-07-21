@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Madhvansh Choksi — reproducible ML systems for search, forecasting, recommendation, and industrial decision support">
+  <img src="assets/profile-banner.svg" width="1200" alt="Madhvansh Choksi — reproducible ML systems for search, forecasting, recommendation, and industrial decision support">
 </p>
 
 # Hi, I'm Madhvansh Choksi
